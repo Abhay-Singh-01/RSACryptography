@@ -1,4 +1,4 @@
-# Asignment 6 - Public Key Cryptography
+# Public Key Cryptography
 
 This program implements a the RSA method of cryptography. Essentially a key generator will be user to generate the public and private keys. The keys will then be used to encrypt a message, and then decrypt the message back to its original form. The files will be incorporating the RSA algorithm, but some of the numtheory mathematical methods will be their own methods, such as Miller-Rabin for testing primes.
 
@@ -55,5 +55,7 @@ $ ./decrypt -{hvi:n:o}
 -o outfile Output file for decrypted data
 
 -n pvfile Private key file
+
+Note: This Project was created in CSE13s Fall 2022 at UCSC.
 
 
